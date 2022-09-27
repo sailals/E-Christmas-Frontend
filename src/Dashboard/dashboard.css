@@ -329,6 +329,7 @@ body.dark {
   grid-gap: 24px;
   margin-top: 36px;
 }
+
 #content main .box-info li {
   padding: 24px;
   background: var(--light);
